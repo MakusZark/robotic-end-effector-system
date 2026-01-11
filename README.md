@@ -4,6 +4,9 @@
 Team based engineering project to design a warehouse robotic end effector integrating
 mechanical design and Python based order management software.
 
+## Mechanical Design
+![CAD Model](exploded_view.jpg)
+
 ## My Contributions
 - Developed Python functions for user authentication and order processing
 - Integrated individual modules into a main program and debugged runtime errors
