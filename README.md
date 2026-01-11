@@ -4,7 +4,7 @@
 Team based engineering project to design a warehouse robotic end effector integrating
 mechanical design and Python based order management software.
 
-![Robotic End Effector](gripper_in_action.jpg)
+![Robotic End Effector](arm_in_action.jpg)
 ![Robotic End Effector](final_gripper.jpg)
 
 ## Demo Video
