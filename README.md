@@ -8,7 +8,7 @@ mechanical design and Python based order management software.
 ![Robotic End Effector](final_gripper.jpg)
 
 ## Demo Video
-[▶ Watch system demonstration](https://link_here)
+[▶ Watch system demonstration](https://youtu.be/GaiL_cmp7zk)
 
 ## Mechanical Design
 ![CAD Model](exploded_view.jpg)
